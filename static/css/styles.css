@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: #00a5be;
+    background: #C37F4D;
     font-family: system-ui;
     overflow-x: hidden;
     background-image: url('../images/asset-red.svg');
@@ -108,22 +108,6 @@ body {
     grid-area: character-description;
   }
   
-  /* .navigation {
-    transform: rotate(180deg);
-    writing-mode: vertical-rl;
-    position: absolute;
-    left: 2em;
-    height: calc(100vh - 8em);
-    bottom: 0;
-    text-align: center;
-    border: 1px solid red;
-    text-transform: uppercase;
-    display: flex;
-    justify-content: space-between;
-    padding-inline: 4em;
-    display: none;
-  } */
-  
   .navigation .text {
     display: inline-flex;
     margin-inline: 35px;
@@ -136,9 +120,6 @@ body {
     border-radius: 50%;
     display: inline-flex;
     margin-inline: 5px;
-  }
-  
-  .links {
   }
   
   .line {
@@ -165,9 +146,9 @@ body {
   }
   
   .character-label {
-    background: #685128;
+    background: #A8FB9C;
     padding: 1em;
-    color: white;
+    color: black;
     border-radius: 10px;
     text-align: left;
     font-size: 25px;
